@@ -1,0 +1,6 @@
+@import 'reset.scss';
+// Import the framework
+@import 'node_modules/vanilla-framework/scss/vanilla';
+
+// Include all of Vanilla Framework
+@include vanilla;
